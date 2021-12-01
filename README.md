@@ -1,5 +1,7 @@
 # Arthur's Titanic Data Exploration
 
+![Las Vegas News: Titanic Sinks Four Hours After Hitting Iceberg](https://github.com/arthurbank/titanic-data/blob/master/.github/newspaper.jpg?raw=true)
+
 ## Installation
 
 ### Software Requirements
